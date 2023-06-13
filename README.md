@@ -9,26 +9,34 @@ alleged to focus different types of radiation, including that coming from biolog
 ## Ref
 - https://en.wikipedia.org/wiki/Kozyrev_mirror
 - https://youtu.be/a9hwXoCrEUs
-
+```
 Summary
-This text discusses various topics, including a 1990 experiment on enhancing human perception, the concept of time as a non-linear dimension, and the controversial theories of Russian physicist Nikolai Kazarev regarding torsion and the existence of The Ether.
+This text discusses various topics, including a 1990 experiment on enhancing human perception, the concept of 
+time as a non-linear dimension, and the controversial theories of Russian physicist Nikolai Kazarev regarding 
+torsion and the existence of The Ether.
 
 Facts
-🔬 In 1990, Russian scientists conducted an experiment to enhance human super perception or ESP using a device made of rolled aluminum.
-🌌 The experiment resulted in strange phenomena, such as disc-shaped lights, balls of energy, and intensified Northern Lights around the lab.
+🔬 In 1990, Russian scientists conducted an experiment to enhance human super perception or ESP using a 
+device made of rolled aluminum.
+🌌 The experiment resulted in strange phenomena, such as disc-shaped lights, balls of energy, and intensified 
+Northern Lights around the lab.
 ⏰ The device not only boosted psychic abilities but also enabled subjects to view any place and time in the world.
 👦 A participant in the experiment experienced a vision of himself as a child, observing his own past.
-🌑 In the early 20th century, Russian physicist Nikolai Kazarev made controversial discoveries, including volcanic activity on the moon and theories on torsion.
+🌑 In the early 20th century, Russian physicist Nikolai Kazarev made controversial discoveries, including 
+volcanic activity on the moon and theories on torsion.
 🌪️ Torsion refers to the twisting of space-time and is considered by Kazarev as a cornerstone of his work.
-🌀 The Einstein cartoon theory proposes that space-time can be twisted, not just curved, due to the spinning of subatomic particles.
+🌀 The Einstein cartoon theory proposes that space-time can be twisted, not just curved, due to the spinning of 
+subatomic particles.
 🌌 Kazarev's theory suggests the existence of The Ether, an invisible dynamic medium that fills the universe.
 ⏳ According to Kazarev, time possesses energy and structure, actively participating in the universe's existence.
-⏰ Time energy can have different densities, speeds, and even move in reverse, influencing matter, space, and physical phenomena.
+⏰ Time energy can have different densities, speeds, and even move in reverse, influencing matter, space, 
+and physical phenomena.
 🌍 Time energy impacts various aspects of life, including weather, plant growth, DNA, and the behavior of stars.
 🧪 Kazarev's theories are still debated today, and his work challenges mainstream scientific beliefs.
-Note: Due to the absence of a readable URL or specific content to extract facts from, the provided text was used for summarization.
+Note: Due to the absence of a readable URL or specific content to extract facts from, the provided text was 
+used for summarization.
 
-```
+
 Bending Time: The Successful Time Travel Experiments using Kozyrev Mirrors. In December 1990, in a remote village 
 above the Arctic Circle, two Russian scientists embarked on a daring experiment. Their goal was to enhance human
 “super-perception” or ESP. They built a device that could shield subjects from electromagnetic interference 
