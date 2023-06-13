@@ -38,6 +38,7 @@ While the concept of the Kozyrev mirror is not supported by established scientif
 
 4. Time Travel Paradoxes: Several thought experiments and paradoxes related to time travel have been proposed. The most famous is the grandfather paradox, which suggests that traveling back in time and preventing one's own birth would create a paradox. These paradoxes highlight the complexities and contradictions that arise when considering the possibility of time travel.
 
+## no support or validation
 It is important to emphasize that the scientific theories and concepts discussed earlier, such as special and general relativity, quantum mechanics, and wormholes, explore various aspects of time but do not provide direct support or validation for the specific concept of the Kozyrev mirror. The Kozyrev mirror remains a speculative idea that has not gained widespread acceptance within the scientific community.
 
 Nikolai Kozyrev's theory of the Kozyrev mirror and time manipulation does not have a well-established mathematical framework or equations associated with it. Kozyrev's ideas were primarily conceptual and speculative, lacking detailed mathematical formalism.
@@ -45,6 +46,18 @@ Nikolai Kozyrev's theory of the Kozyrev mirror and time manipulation does not ha
 The Kozyrev mirror concept is more focused on philosophical and theoretical aspects of time rather than offering a mathematical description. Kozyrev's work was centered around observations and subjective experiences related to time phenomena, rather than mathematical modeling.
 
 It is worth noting that the scientific community has not widely embraced or validated the Kozyrev mirror theory. As a result, there is limited scientific literature or mathematical analysis directly associated with Kozyrev's ideas.
+
+## time
+It is important to note that there have been experiments conducted that support a theory proposed in the 1950s, suggesting that time, as we commonly perceive it, may not exist. This theory challenges our conventional understanding of time as an independent and fundamental aspect of the universe.
+
+In the field of theoretical physics, there is ongoing research and debate about the nature of time. Some physicists argue that time could be an emergent phenomenon, arising from more fundamental principles yet to be fully understood. This viewpoint is often associated with the quest for a theory of quantum gravity, which seeks to reconcile quantum mechanics with general relativity.
+
+Through experiments and observations, particularly in the realm of quantum mechanics, intriguing phenomena have been discovered that question our intuitive understanding of time. For instance, phenomena like quantum entanglement, superposition, and time-reversal symmetry suggest that the behavior of particles and their interactions might not conform to a linear concept of time.
+
+However, it is essential to recognize that these observations and theories do not definitively prove that time does not exist. Time remains a fundamental aspect of our everyday experience and the framework through which we perceive and interact with the world.
+
+The scientific community continues to explore and refine our understanding of time using theoretical models, experiments, and mathematical frameworks. While alternative perspectives on time challenge traditional notions, the consensus among physicists is that time, in some form, plays a crucial role in describing the behavior of the universe.
+
 
 ## Ref
 - https://en.wikipedia.org/wiki/Kozyrev_mirror
